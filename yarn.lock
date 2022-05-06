@@ -1569,22 +1569,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"my-app@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "my-app@workspace:."
-  dependencies:
-    "@types/node": 17.0.31
-    "@types/react": 18.0.8
-    "@types/react-dom": 18.0.3
-    eslint: 8.14.0
-    eslint-config-next: 12.1.6
-    next: 12.1.6
-    react: 18.1.0
-    react-dom: 18.1.0
-    typescript: 4.6.4
-  languageName: unknown
-  linkType: soft
-
 "nanoid@npm:^3.1.30":
   version: 3.3.4
   resolution: "nanoid@npm:3.3.4"
@@ -2183,6 +2167,22 @@ __metadata:
   checksum: 53b1e247e68e05db7b3808b99b892bd36fb096e6fba213a06da7fab22045e97597db425c724f2bbd6c99a3c295e1e73f3e4de78592289f38431049e1277ca0ae
   languageName: node
   linkType: hard
+
+"tbb-cli-template@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "tbb-cli-template@workspace:."
+  dependencies:
+    "@types/node": 17.0.31
+    "@types/react": 18.0.8
+    "@types/react-dom": 18.0.3
+    eslint: 8.14.0
+    eslint-config-next: 12.1.6
+    next: 12.1.6
+    react: 18.1.0
+    react-dom: 18.1.0
+    typescript: 4.6.4
+  languageName: unknown
+  linkType: soft
 
 "text-table@npm:^0.2.0":
   version: 0.2.0
